@@ -1,6 +1,8 @@
 # fraud-detection-model-3mtt-ks
 ### 1. Problem Definition
-Fraud detection involves identifying transactions that are potentially fraudulent, which is crucial in industries like banking and e-commerce. We'll build a binary classification model that predicts whether a transaction is fraudulent (1) or not (0).
+Fraud detection involves identifying transactions that are potentially fraudulent, which is crucial in industries like banking and e-commerce. We'll build a binary classification model that predicts whether a transaction is fraudulent (1) or not (0). 
+
+**LINK TO THE 3 MINUTES VIDEO EXPLAINING THE PROJECT**: https://vimeo.com/1087454252?share=copy#t=0
 
 ### 2. Dataset & Source
 We'll use the popular "Credit Card Fraud Detection" dataset from Kaggle. It contains:
